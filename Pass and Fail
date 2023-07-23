@@ -1,8 +1,8 @@
-Exercise 5.1
+/*Exercise 5.1
 "Write a program that prompts a student to enter a Java score. If the
 score is greater or equal to 60, display “you pass the exam”; otherwise, display 'you
 don’t pass the exam.' Your program ends with input -1." 
-Introduction to Java Programming and Data Structures by Daniel Liang
+Introduction to Java Programming and Data Structures by Daniel Liang*\
 
 package Pck1;
 
